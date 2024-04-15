@@ -30,8 +30,7 @@ Contributions to WeatherVue are welcome! Feel free to submit a pull request or o
 
 ## Support
 
-For any inquiries or support requests regarding WeatherVue, please contact sakeenaalam999@gmail.com(mailto:sakeenaalam999@gmail.com).
-
+For any inquiries or support requests regarding WeatherVue, please contact sakeenaalam999@gmail.com
 ## Acknowledgements
 
 WeatherVue utilizes weather data provided by https://openweathermap.org/api, which is greatly appreciated.
